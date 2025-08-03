@@ -1,6 +1,6 @@
 # 🎉 Pancake Tweaking Utility 🎉
 
-🚀 A sleek console based desktop app to tweak your PC — no fuss, just pure magic! ✨
+🚀 A sleek console based desktop app made fully in python - to tweak your PC — no fuss, just pure magic! ✨
 
 ---
 
